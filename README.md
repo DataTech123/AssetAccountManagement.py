@@ -1,10 +1,9 @@
-The purpose of this project tracks each asset account at supply costs in manufacturing and construction industries with asset depreciation value and verify a total cost of each asset account.    
+This project uses software (Python and Visual Studio Code) to write code based on partial elements of the asset account information structure in the asset service module of Oracle's PeopleSoft accounting system. The purpose of this project tracks each asset account's material cost in construction projects, including asset depreciation value, net book value, and verifying a total cost of each asset account.
 
-Data Explanation:
-This project design only utilizes “some elements of asset account” process in Oracle and SAP suites based on my previous process experience in asset account. 
-However, if it is a different business industry asset account setup in the real-time working system, I will need to write different syntax (programming language)
-depending on that the working asset account information structure for extraction to the target data.
-In a particular case, Python. NumPy can effectively verify financial statements with the ending total balance by using the Math calculation method.
- 
+Data Explanations:
+This project design utilizes only certain elements of each asset account to display Asset 1 through Asset 5 and Asset ID (sample asset illustration) in Oracle's PeopleSoft. Based on my work experience in the Department of Seattle City Light, asset account uses digit number to represent the asset and the asset account code.
+
+If Oracle recently upgrades its PeopleSoft asset accounting system, the upgraded system will rely on the factual working system configuration to view the database diagram to fetch the target data by writing different code.
+
  
  Thank you so much for your review. I welcome any questions for further development.
