@@ -3,7 +3,7 @@ This project uses software (Python and Visual Studio Code) to write code based o
 Data Explanations:
 This project design utilizes only certain elements of each asset account to display Asset 1 through Asset 5 and Asset ID (sample asset illustration) in Oracle's PeopleSoft. Based on my work experience in the Department of Seattle City Light, asset account uses digit number to represent the asset and the asset account code.
 
-If Oracle recently upgrades its PeopleSoft asset accounting system, the upgraded system will rely on the factual working system configuration to view the database diagram to fetch the target data by writing different code.
+If Oracle recently upgrades its PeopleSoft asset accounting system, the upgraded system will rely on the actual working system configuration to view the database diagram to fetch the target data by writing different code.
 
  
  Thank you so much for your review. I welcome any questions for further development.
